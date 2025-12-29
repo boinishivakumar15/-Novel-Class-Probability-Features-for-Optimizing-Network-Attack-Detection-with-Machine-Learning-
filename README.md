@@ -1,0 +1,2 @@
+# -Novel-Class-Probability-Features-for-Optimizing-Network-Attack-Detection-with-Machine-Learning-
+Network intrusion detection systems (NIDS) play a critical role in protecting modern computer networks from cyberattacks. Traditional machine learning–based detection systems often rely solely on raw traffic features, which may limit their ability to accurately distinguish between normal behavior and complex attack patterns. 
